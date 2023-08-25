@@ -1,0 +1,19 @@
+html, body {
+    margin: 0;
+    padding: 0;
+  }
+  canvas {
+    display: block;
+  }
+  
+  .placar {
+  display: flex;
+      justify-content: center;
+     color: purple;
+    text-decoration: solid;
+  }
+  
+  .container {
+    display: flex;
+    justify-content: center;
+  }
